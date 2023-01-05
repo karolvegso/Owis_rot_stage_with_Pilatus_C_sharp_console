@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1433
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Owis_rot_stage_with_Pilatus_console", "Owis_rot_stage_with_Pilatus_console\Owis_rot_stage_with_Pilatus_console.csproj", "{AEC8B382-E7B7-499A-9DD3-E4D9D78C4152}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{3484CEB2-E43A-4C27-AFA6-C3494483E249}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AEC8B382-E7B7-499A-9DD3-E4D9D78C4152}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEC8B382-E7B7-499A-9DD3-E4D9D78C4152}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEC8B382-E7B7-499A-9DD3-E4D9D78C4152}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEC8B382-E7B7-499A-9DD3-E4D9D78C4152}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8EC856FA-C78D-4F9D-890A-6D1442C1EA9C}
+	EndGlobalSection
+EndGlobal
